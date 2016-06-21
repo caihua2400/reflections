@@ -1,1 +1,4 @@
 lesson_1_reflections_prompts.txtlesson_1_reflections_prompts.txt
+
+Hi this is just a line to let you know that I am trying to excerise git branch and merge.
+
